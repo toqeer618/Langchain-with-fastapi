@@ -19,3 +19,5 @@ You can create many more bots by just changing the prompt passing to bot
     ` Pass the URL and ask the question and got the answer that is in the document ` 
 ## 5- Running the app on local host 
 `uvicorn main:app --reload` 
+
+Once executed click on the 127.0.0.1:8000 and write in the URL bar 127.0.0.1:8000/docs
