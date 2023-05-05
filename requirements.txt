@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+openai
+openapi-schema-pydantic
+networkx
+gunicorn
+python-multipart
+PyPDF2
+pypdf
+chromadb
+tiktoken
+bs4
+requests
+typing
+pinecone-client
